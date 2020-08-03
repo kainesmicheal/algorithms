@@ -1,1 +1,1 @@
-all solution implemented in python
+all solutions implemented in python
