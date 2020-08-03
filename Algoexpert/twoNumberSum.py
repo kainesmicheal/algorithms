@@ -23,7 +23,8 @@ def twoNumberSum(array, targetSum):
 #space complexity is o(n)
 
 def twoNumberSum(array, targetSum):
-    left = 0
+	array.sort()
+	left = 0
 	right = len(array) - 1
 	while left < right:
 		potentialVal = array[left] + array[right]
