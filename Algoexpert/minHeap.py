@@ -1,6 +1,5 @@
 class MinHeap:
     def __init__(self, array):
-        # Do not edit the line below.
         self.heap = self.buildHeap(array)
 	#o(n) time | o(1) space
     def buildHeap(self, array):
