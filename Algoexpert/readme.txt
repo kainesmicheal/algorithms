@@ -1,1 +1,1 @@
-all solutions implemented in python
+all solutions are learned from algoexpert website;
